@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# 设置环境变量
+export OBF_SPLIT=1
+export OBF_SOBF=1
+export OBF_FLA=1
+export OBF_SUB=1
+export OBF_BCF=1
+export OBF_IBR=1
+export OBF_IGV=1
+export OBF_ICALL=1
+export OBF_FNCMD=1
